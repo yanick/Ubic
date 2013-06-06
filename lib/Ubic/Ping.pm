@@ -4,7 +4,7 @@ package Ubic::Ping;
 use strict;
 use warnings;
 
-# ABSTRACT: http server which returns service status by it's name or port
+# ABSTRACT: http server which returns service status by its name or port
 
 use Ubic;
 use Ubic::PortMap;
